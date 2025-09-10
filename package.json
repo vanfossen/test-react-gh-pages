@@ -1,5 +1,6 @@
 {
   "name": "test-react-gh-pages",
+  "homepage": "https://vanfossen.github.io/test-react-gh-pages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
